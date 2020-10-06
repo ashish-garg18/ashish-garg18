@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ashish Garg</h1>
-<h3 align="center">Web Developer || Coder</h3>
+## Hi 👋, I'm Ashish Garg
+### Web Developer || Coder
 
 <!--
 **ashish-garg18/ashish-garg18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 

@@ -9,7 +9,8 @@
 
 - ⚡ Fun fact **Foodie || Binge Watcher**
 
-- 🎓 Currently Pursuing B.Tech in Computer Science and Engineering
+- SDE at Fintech
+- 🎓 B.Tech in Computer Science and Engineering
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
